@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", () => {
         captions: true,
         captionsData: 'alt',
         captionPosition: 'bottom',
-        captionDelay: 250
+        captionDelay: 250,
     });
 });
 
